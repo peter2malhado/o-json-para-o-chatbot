@@ -14,7 +14,18 @@
 
 
 
+  },
+
+   {
+    "name":"Qwen3-4B",
+    "url": "https://huggingface.co/Qwen/Qwen3-4B-GGUF/resolve/main/Qwen3-4B-Q8_0.gguf?download=true",
+    "fileName":"Qwen3-4B-Q8_0.gguf",
+    "description":"modelo qwen3 para conversas normais"
+
+
+
   }
+
 
 
 ]
