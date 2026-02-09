@@ -4,5 +4,17 @@
     "url": "https://huggingface.co/hugging-quants/Llama-3.2-1B-Instruct-Q8_0-GGUF/resolve/main/llama-3.2-1b-instruct-q8_0.gguf?download=true",
     "fileName": "llama-3.2-1b-instruct-q8_0.gguf",
     "description": "Modelo leve para uso local."
+  },
+
+  {
+    "name":"Jan-v3-4B-base-instruct",
+    "url": "https://huggingface.co/janhq/Jan-v3-4B-base-instruct-gguf/resolve/main/Jan-v3-4b-base-instruct-Q8_0.gguf?download=true",
+    "fileName":"Jan-v3-4b-base-instruct-Q8_0.gguf",
+    "description":"Modelo mais pessado de 4.69 gb."
+
+
+
   }
+
+
 ]
